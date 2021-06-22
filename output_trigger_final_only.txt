@@ -1,0 +1,694 @@
+=====1th sent====================================================
+---------1. finding triggers of ㅣ in ㄱㅡㅁ
+(('back', ('+', '-')),)
+phon_idx: 14
+TRIGGER syl_str:  [('j', 15)]
+TRIGGER min dist:  [('j', 15)]
+
+
+---------2. finding triggers of ㄷ in ㅎㅓㄴ
+(('son', ('+', '-')), ('asp', ('0', '-')), ('tense', ('0', '-')), ('nas', ('+', '0')))
+phon_idx: 22
+TRIGGER syl_str:  [('ㄷ', 23)]
+TRIGGER min dist:  [('ㅅ', 23)]
+
+
+
+
+=====2th sent====================================================
+---------3. finding triggers of ㄲ in ㅋㅡㄴ
+(('asp', ('+', '-')),)
+phon_idx: 4
+TRIGGER syl_str:  [('ㄲ', 5)]
+TRIGGER min dist:  [('ㄲ', 5)]
+
+
+---------4. finding triggers of ㅇ in ㅋㅡㄴ
+(('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 4
+TRIGGER syl_str:  [('ㅇ', 5)]
+TRIGGER min dist:  [('ㄲ', 5)]
+
+
+---------5. finding triggers of ㅇ in ㄲㅏㄴ
+(('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 8
+TRIGGER syl_str:  [('ㅇ', 9)]
+TRIGGER min dist:  [('ㄲ', 9)]
+
+
+---------6. finding triggers of ㅋ in ㄲㅏㅇ
+(('asp', ('-', '+')),)
+phon_idx: 9
+TRIGGER syl_str:  [('ㅌ', 10)]
+TRIGGER min dist:  [('ㅌ', 10)]
+
+
+---------7. finding triggers of ㅋ in ㄲㅏㅇ
+(('asp', ('-', '+')),)
+phon_idx: 9
+TRIGGER syl_str:  [('ㅌ', 10)]
+TRIGGER min dist:  [('ㅌ', 10)]
+
+
+---------8. finding triggers of ㅋ in ㄲㅏㅇ
+(('asp', ('-', '+')),)
+phon_idx: 9
+TRIGGER syl_str:  [('ㅌ', 10)]
+TRIGGER min dist:  [('ㅌ', 10)]
+
+
+---------9. finding triggers of ㅋ in ㄲㅏㅇ
+(('asp', ('-', '+')),)
+phon_idx: 9
+TRIGGER syl_str:  [('ㅌ', 10)]
+TRIGGER min dist:  [('ㅌ', 10)]
+
+
+---------10. finding triggers of ㅋ in ㄲㅏㅇ
+(('asp', ('-', '+')),)
+phon_idx: 9
+TRIGGER syl_str:  [('ㅌ', 10)]
+TRIGGER min dist:  [('ㅌ', 10)]
+
+
+
+
+=====3th sent====================================================
+---------11. finding triggers of ㅌ in ㄸwㅣㅁ
+(('asp', ('-', '+')),)
+phon_idx: 17
+TRIGGER syl_str:  [('ㅌ', 18)]
+TRIGGER min dist:  [('ㅌ', 18)]
+
+
+
+
+=====4th sent====================================================
+---------12. finding triggers of ㄷ in ㅏㅂ
+(('lab', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')))
+phon_idx: 0
+TRIGGER syl_str:  [('ㄷ', 2)]
+TRIGGER min dist:  [('ㄷ', 2)]
+
+
+---------13. finding triggers of ㄹ in ㄱㅡㄴ
+(('son', ('-', '+')), ('asp', ('-', '0')), ('tense', ('-', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 6
+TRIGGER syl_str:  []
+TRIGGER min dist:  [('ㄹ', 5)]
+
+
+---------14. finding triggers of ㅃ in ㅍㅏㄷ
+(('asp', ('+', '-')),)
+phon_idx: 9
+TRIGGER syl_str:  [('ㅉ', 10)]
+TRIGGER min dist:  [('ㄷ', 8)]
+
+
+---------15. finding triggers of ㄱ in ㅍㅏㄷ
+(('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 9
+TRIGGER syl_str:  [('ㅇ', 15)]
+TRIGGER min dist:  [('ㄱ', 11)]
+
+
+---------16. finding triggers of ㄱ in ㅋㅗㅇ
+(('son', ('+', '-')), ('asp', ('0', '-')), ('tense', ('0', '-')), ('nas', ('+', '0')))
+phon_idx: 21
+TRIGGER syl_str:  [('ㄱ', 23)]
+TRIGGER min dist:  [('ㅈ', 23)]
+
+
+---------17. finding triggers of ㅋ in ㄲㅔ
+(('asp', ('-', '+')),)
+phon_idx: 28
+TRIGGER syl_str:  [('ㅋ', 22)]
+TRIGGER min dist:  [('ㅋ', 22)]
+
+
+---------18. finding triggers of ㄴ in ㅋㅗㅇ
+(('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 43
+TRIGGER syl_str:  [('ㄷ', 42), ('ㄴ', 44)]
+TRIGGER min dist:  [('ㄷ', 44)]
+
+
+---------19. finding triggers of ㄱ in ㄷㅏㄴ
+(('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 44
+TRIGGER syl_str:  [('ㅋ', 43), ('ㅋ', 45)]
+TRIGGER min dist:  [('ㅇ', 43)]
+
+
+---------20. finding triggers of ㅇ in ㄷㅏㄴ
+(('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 44
+TRIGGER syl_str:  [('ㅇ', 43), ('ㅇ', 45)]
+TRIGGER min dist:  [('ㅋ', 45)]
+
+
+---------21. finding triggers of ㄲ in ㅋㅗㅇ
+(('asp', ('+', '-')),)
+phon_idx: 46
+TRIGGER syl_str:  [('ㅈ', 47)]
+TRIGGER min dist:  [('ㅈ', 47)]
+
+
+
+
+=====5th sent====================================================
+---------22. finding triggers of ㄷ in ㅏㅂ
+(('lab', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')))
+phon_idx: 22
+TRIGGER syl_str:  [('ㄷ', 20)]
+TRIGGER min dist:  [('ㄷ', 20)]
+
+
+
+
+=====6th sent====================================================
+---------23. finding triggers of ㅁ in ㅁㅏㄹ
+(('nas', ('0', '+')), ('lab', ('0', '+')), ('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')))
+phon_idx: 13
+TRIGGER syl_str:  []
+TRIGGER min dist:  [('ㅁ', 14)]
+
+
+---------24. finding triggers of ㄹ in ㅁㅗㄴ
+(('nas', ('+', '0')),)
+phon_idx: 14
+TRIGGER syl_str:  [('ㄹ', 13), ('ㄹ', 15)]
+TRIGGER min dist:  [('ㅗ', 14)]
+
+
+
+
+=====7th sent====================================================
+---------25. finding triggers of ㄷ in jㅓㅂ
+(('lab', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')))
+phon_idx: 0
+TRIGGER syl_str:  [('ㄷ', 2)]
+TRIGGER min dist:  [('ㄷ', 2)]
+
+
+
+
+=====8th sent====================================================
+---------26. finding triggers of ㄹ in ㄱjㅓㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 0
+TRIGGER syl_str:  [('ㄹ', 1)]
+TRIGGER min dist:  [('ㄹ', 1)]
+
+
+---------27. finding triggers of ㅅ in ㅊㅓㅇ
+(('cont', ('-', '+')), ('asp', ('+', '-')), ('tense', ('+', '-')), ('ant', ('-', '+')))
+phon_idx: 2
+TRIGGER syl_str:  [('ㅅ', 3)]
+TRIGGER min dist:  [('ㅅ', 3)]
+
+
+---------28. finding triggers of ㅆ in ㅊㅓㅇ
+(('cont', ('-', '+')), ('asp', ('+', '-')), ('ant', ('-', '+')))
+phon_idx: 2
+TRIGGER syl_str:  [('ㅅ', 3)]
+TRIGGER min dist:  [('ㅅ', 3)]
+
+
+---------29. finding triggers of ㅡ in ㅊㅓㅇ
+(('high', ('-', '+')),)
+phon_idx: 2
+TRIGGER syl_str:  [('w', 3)]
+TRIGGER min dist:  [('w', 3)]
+
+
+---------30. finding triggers of ㅊ in ㅅwㅔ
+(('cont', ('+', '-')), ('asp', ('-', '+')), ('tense', ('-', '+')), ('ant', ('+', '-')))
+phon_idx: 3
+TRIGGER syl_str:  [('ㅊ', 4), ('ㅊ', 2)]
+TRIGGER min dist:  [('ㅊ', 4), ('ㅊ', 2)]
+
+
+---------31. finding triggers of ㅊ in ㅅwㅔ
+(('cont', ('+', '-')), ('asp', ('-', '+')), ('tense', ('-', '+')), ('ant', ('+', '-')))
+phon_idx: 3
+TRIGGER syl_str:  [('ㅊ', 4), ('ㅊ', 2)]
+TRIGGER min dist:  [('ㅊ', 4), ('ㅊ', 2)]
+
+
+---------32. finding triggers of ㅊ in ㅅwㅔ
+(('cont', ('+', '-')), ('asp', ('-', '+')), ('tense', ('-', '+')), ('ant', ('+', '-')))
+phon_idx: 3
+TRIGGER syl_str:  [('ㅊ', 4), ('ㅊ', 2)]
+TRIGGER min dist:  [('ㅊ', 4), ('ㅊ', 2)]
+
+
+---------33. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 4
+TRIGGER syl_str:  [('ㄹ', 5)]
+TRIGGER min dist:  [('ㄹ', 5)]
+
+
+---------34. finding triggers of ㅇ in ㅊㅓㄹ
+(('nas', ('0', '+')), ('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 7
+TRIGGER syl_str:  [('ㅇ', 8)]
+TRIGGER min dist:  [('ㅇ', 8)]
+
+
+---------35. finding triggers of ㅇ in ㅊㅓㄹ
+(('nas', ('0', '+')), ('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 7
+TRIGGER syl_str:  [('ㅇ', 8)]
+TRIGGER min dist:  [('ㅇ', 8)]
+
+
+---------36. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 8
+TRIGGER syl_str:  [('ㄹ', 9), ('ㄹ', 7)]
+TRIGGER min dist:  [('ㄹ', 9), ('ㄹ', 7)]
+
+
+---------37. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 8
+TRIGGER syl_str:  [('ㄹ', 9), ('ㄹ', 7)]
+TRIGGER min dist:  [('ㄹ', 9), ('ㄹ', 7)]
+
+
+---------38. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 8
+TRIGGER syl_str:  [('ㄹ', 9), ('ㄹ', 7)]
+TRIGGER min dist:  [('ㄹ', 9), ('ㄹ', 7)]
+
+
+---------39. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 8
+TRIGGER syl_str:  [('ㄹ', 9), ('ㄹ', 7)]
+TRIGGER min dist:  [('ㄹ', 9), ('ㄹ', 7)]
+
+
+---------40. finding triggers of ㅇ in ㅆㅏㄹ
+(('nas', ('0', '+')), ('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 9
+TRIGGER syl_str:  [('ㅇ', 8)]
+TRIGGER min dist:  [('ㅇ', 8)]
+
+
+---------41. finding triggers of ㅇ in ㅆㅏㄹ
+(('nas', ('0', '+')), ('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 9
+TRIGGER syl_str:  [('ㅇ', 8)]
+TRIGGER min dist:  [('ㅇ', 8)]
+
+
+---------42. finding triggers of ㅇ in ㅆㅏㄹ
+(('nas', ('0', '+')), ('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 9
+TRIGGER syl_str:  [('ㅇ', 8)]
+TRIGGER min dist:  [('ㅇ', 8)]
+
+
+---------43. finding triggers of ㅇ in ㅊㅏㄹ
+(('nas', ('0', '+')), ('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 11
+TRIGGER syl_str:  [('ㅇ', 12)]
+TRIGGER min dist:  [('ㅇ', 12)]
+
+
+---------44. finding triggers of ㄹ in ㅊㅓㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 12
+TRIGGER syl_str:  [('ㄹ', 11)]
+TRIGGER min dist:  [('ㄹ', 11)]
+
+
+---------45. finding triggers of ㅊ in ㅅwㅔ
+(('cont', ('+', '-')), ('asp', ('-', '+')), ('tense', ('-', '+')), ('ant', ('+', '-')))
+phon_idx: 13
+TRIGGER syl_str:  [('ㅊ', 14), ('ㅊ', 12)]
+TRIGGER min dist:  [('ㅊ', 14), ('ㅊ', 12)]
+
+
+---------46. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 18
+TRIGGER syl_str:  [('ㄹ', 19), ('ㄹ', 17)]
+TRIGGER min dist:  [('ㄹ', 19), ('ㄹ', 17)]
+
+
+---------47. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 18
+TRIGGER syl_str:  [('ㄹ', 19), ('ㄹ', 17)]
+TRIGGER min dist:  [('ㄹ', 19), ('ㄹ', 17)]
+
+
+---------48. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 18
+TRIGGER syl_str:  [('ㄹ', 19), ('ㄹ', 17)]
+TRIGGER min dist:  [('ㄹ', 19), ('ㄹ', 17)]
+
+
+---------49. finding triggers of ㅇ in ㅆㅏㄹ
+(('nas', ('0', '+')), ('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 19
+TRIGGER syl_str:  [('ㅇ', 18)]
+TRIGGER min dist:  [('ㅇ', 18)]
+
+
+---------50. finding triggers of ㅇ in ㅆㅏㄹ
+(('nas', ('0', '+')), ('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 19
+TRIGGER syl_str:  [('ㅇ', 18)]
+TRIGGER min dist:  [('ㅇ', 18)]
+
+
+---------51. finding triggers of ㅇ in ㅆㅏㄹ
+(('nas', ('0', '+')), ('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 19
+TRIGGER syl_str:  [('ㅇ', 18)]
+TRIGGER min dist:  [('ㅇ', 18)]
+
+
+
+
+=====9th sent====================================================
+---------52. finding triggers of ㅇ in ㅊㅓㄹ
+(('nas', ('0', '+')), ('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 3
+TRIGGER syl_str:  [('ㅇ', 4), ('ㅇ', 2)]
+TRIGGER min dist:  [('ㅇ', 4), ('ㅇ', 2)]
+
+
+---------53. finding triggers of ㅇ in ㅊㅓㄹ
+(('nas', ('0', '+')), ('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 3
+TRIGGER syl_str:  [('ㅇ', 4), ('ㅇ', 2)]
+TRIGGER min dist:  [('ㅇ', 4), ('ㅇ', 2)]
+
+
+---------54. finding triggers of ㅇ in ㅊㅓㄹ
+(('nas', ('0', '+')), ('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 3
+TRIGGER syl_str:  [('ㅇ', 4), ('ㅇ', 2)]
+TRIGGER min dist:  [('ㅇ', 4), ('ㅇ', 2)]
+
+
+---------55. finding triggers of ㅇ in ㅊㅓㄹ
+(('nas', ('0', '+')), ('cor', ('+', '0')), ('ant', ('+', '0')), ('strid', ('-', '0')), ('dors', ('0', '+')))
+phon_idx: 3
+TRIGGER syl_str:  [('ㅇ', 4), ('ㅇ', 2)]
+TRIGGER min dist:  [('ㅇ', 4), ('ㅇ', 2)]
+
+
+---------56. finding triggers of ㅆ in ㅊㅏㅇ
+(('cont', ('-', '+')), ('asp', ('+', '-')), ('ant', ('-', '+')))
+phon_idx: 4
+TRIGGER syl_str:  [('ㅆ', 5)]
+TRIGGER min dist:  [('ㅆ', 5)]
+
+
+---------57. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 4
+TRIGGER syl_str:  [('ㄹ', 3)]
+TRIGGER min dist:  [('ㄹ', 3), ('ㄹ', 6)]
+
+
+---------58. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 4
+TRIGGER syl_str:  [('ㄹ', 3)]
+TRIGGER min dist:  [('ㄹ', 3), ('ㄹ', 6)]
+
+
+---------59. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 4
+TRIGGER syl_str:  [('ㄹ', 3)]
+TRIGGER min dist:  [('ㄹ', 3), ('ㄹ', 6)]
+
+
+---------60. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 4
+TRIGGER syl_str:  [('ㄹ', 3)]
+TRIGGER min dist:  [('ㄹ', 3), ('ㄹ', 6)]
+
+
+---------61. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 4
+TRIGGER syl_str:  [('ㄹ', 3)]
+TRIGGER min dist:  [('ㄹ', 3), ('ㄹ', 6)]
+
+
+---------62. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 9
+TRIGGER syl_str:  [('ㄹ', 8)]
+TRIGGER min dist:  [('ㄹ', 11), ('ㄹ', 8)]
+
+
+---------63. finding triggers of ㄹ in ㅊㅏㅇ
+(('nas', ('+', '0')), ('cor', ('0', '+')), ('ant', ('0', '+')), ('strid', ('0', '-')), ('dors', ('+', '0')))
+phon_idx: 15
+TRIGGER syl_str:  [('ㄹ', 14)]
+TRIGGER min dist:  [('ㄹ', 17), ('ㄹ', 14)]
+
+
+
+
+=====10th sent====================================================
+---------64. finding triggers of ㅊ in ㅌㅓㄹ
+(('ant', ('+', '-')), ('strid', ('-', '+')))
+phon_idx: 10
+TRIGGER syl_str:  []
+TRIGGER min dist:  []
+
+
+---------65. finding triggers of ㅡ in ㄱㅜ
+(('round', ('+', '-')),)
+phon_idx: 26
+TRIGGER syl_str:  [('ㅣ', 25), ('ㅡ', 27)]
+TRIGGER min dist:  [('ㅡ', 27)]
+
+
+---------66. finding triggers of ㅜ in ㄹㅡㅁ
+(('round', ('-', '+')),)
+phon_idx: 27
+TRIGGER syl_str:  [('ㅜ', 26)]
+TRIGGER min dist:  [('ㅜ', 26)]
+
+
+
+
+=====11th sent====================================================
+---------67. finding triggers of ㅊ in ㅆㅜㄴ
+(('cont', ('+', '-')), ('asp', ('-', '+')), ('ant', ('+', '-')))
+phon_idx: 12
+TRIGGER syl_str:  [('ㅊ', 11)]
+TRIGGER min dist:  [('ㅊ', 11)]
+
+
+
+
+=====12th sent====================================================
+
+
+=====13th sent====================================================
+---------68. finding triggers of ㅓ in ㅌㅡ
+(('high', ('+', '-')),)
+phon_idx: 5
+TRIGGER syl_str:  [('ㅓ', 6)]
+TRIGGER min dist:  [('ㅓ', 6)]
+
+
+
+
+=====14th sent====================================================
+---------69. finding triggers of ㅡ in ㄱㅣ
+(('back', ('-', '+')),)
+phon_idx: 10
+TRIGGER syl_str:  [('ㅡ', 8), ('ㅡ', 12)]
+TRIGGER min dist:  [('ㅡ', 12)]
+
+
+---------70. finding triggers of ㅣ in ㄱㅡ
+(('back', ('+', '-')),)
+phon_idx: 12
+TRIGGER syl_str:  [('ㅣ', 11), ('ㅣ', 13)]
+TRIGGER min dist:  [('ㅣ', 13)]
+
+
+
+
+=====15th sent====================================================
+---------71. finding triggers of ㅏ in ㅊㅣ
+(('high', ('+', '-')), ('low', ('-', '+')), ('back', ('-', '+')))
+phon_idx: 6
+TRIGGER syl_str:  [('ㅏ', 5)]
+TRIGGER min dist:  [('ㅏ', 5)]
+
+
+---------72. finding triggers of ㅏ in ㅆㅡ
+(('high', ('+', '-')), ('low', ('-', '+')))
+phon_idx: 7
+TRIGGER syl_str:  [('ㅏ', 8)]
+TRIGGER min dist:  [('ㅏ', 8)]
+
+
+
+
+=====16th sent====================================================
+---------73. finding triggers of ㅋ in ㄲㅏㄴ
+(('asp', ('-', '+')),)
+phon_idx: 9
+TRIGGER syl_str:  [('ㅋ', 10)]
+TRIGGER min dist:  [('ㅋ', 10)]
+
+
+
+
+=====17th sent====================================================
+---------74. finding triggers of ㄱ in ㅎㅏㅂ
+(('lab', ('+', '0')), ('dors', ('0', '+')))
+phon_idx: 9
+TRIGGER syl_str:  [('ㅇ', 8), ('ㅇ', 10)]
+TRIGGER min dist:  [('ㅇ', 8), ('ㅇ', 10)]
+
+
+---------75. finding triggers of ㄱ in ㅎㅏㅂ
+(('lab', ('+', '0')), ('dors', ('0', '+')))
+phon_idx: 9
+TRIGGER syl_str:  [('ㅇ', 8), ('ㅇ', 10)]
+TRIGGER min dist:  [('ㅇ', 8), ('ㅇ', 10)]
+
+
+---------76. finding triggers of ㄱ in ㅎㅏㅂ
+(('lab', ('+', '0')), ('dors', ('0', '+')))
+phon_idx: 11
+TRIGGER syl_str:  [('ㅇ', 10), ('ㅇ', 12)]
+TRIGGER min dist:  [('ㅇ', 12), ('ㅇ', 10)]
+
+
+---------77. finding triggers of ㄱ in ㅎㅏㅂ
+(('lab', ('+', '0')), ('dors', ('0', '+')))
+phon_idx: 11
+TRIGGER syl_str:  [('ㅇ', 10), ('ㅇ', 12)]
+TRIGGER min dist:  [('ㅇ', 12), ('ㅇ', 10)]
+
+
+---------78. finding triggers of ㄱ in ㅎㅏㅂ
+(('lab', ('+', '0')), ('dors', ('0', '+')))
+phon_idx: 13
+TRIGGER syl_str:  [('ㅇ', 12), ('ㅇ', 14)]
+TRIGGER min dist:  [('ㅇ', 12), ('ㅇ', 14)]
+
+
+---------79. finding triggers of ㄱ in ㅎㅏㅂ
+(('lab', ('+', '0')), ('dors', ('0', '+')))
+phon_idx: 13
+TRIGGER syl_str:  [('ㅇ', 12), ('ㅇ', 14)]
+TRIGGER min dist:  [('ㅇ', 12), ('ㅇ', 14)]
+
+
+---------80. finding triggers of ㄱ in ㅎㅏㅂ
+(('lab', ('+', '0')), ('dors', ('0', '+')))
+phon_idx: 15
+TRIGGER syl_str:  [('ㅇ', 14)]
+TRIGGER min dist:  [('ㅇ', 14)]
+
+
+---------81. finding triggers of ㄱ in ㅎㅏㅂ
+(('lab', ('+', '0')), ('dors', ('0', '+')))
+phon_idx: 15
+TRIGGER syl_str:  [('ㅇ', 14)]
+TRIGGER min dist:  [('ㅇ', 14)]
+
+
+
+
+=====18th sent====================================================
+---------82. finding triggers of ㅁ in wㅏㅇ
+(('lab', ('0', '+')), ('dors', ('+', '0')))
+phon_idx: 8
+TRIGGER syl_str:  [('ㅁ', 9)]
+TRIGGER min dist:  [('ㅂ', 9)]
+
+
+---------83. finding triggers of ㅍ in ㅂㅏㅁ
+(('asp', ('-', '+')), ('tense', ('-', '+')))
+phon_idx: 9
+TRIGGER syl_str:  []
+TRIGGER min dist:  []
+
+
+---------84. finding triggers of ㅁ in ㅃㅏㅇ
+(('lab', ('0', '+')), ('dors', ('+', '0')))
+phon_idx: 10
+TRIGGER syl_str:  [('ㅁ', 9)]
+TRIGGER min dist:  [('w', 11)]
+
+
+---------85. finding triggers of ㅁ in wㅏㅇ
+(('lab', ('0', '+')), ('dors', ('+', '0')))
+phon_idx: 11
+TRIGGER syl_str:  [('ㅁ', 12)]
+TRIGGER min dist:  [('ㅂ', 12)]
+
+
+---------86. finding triggers of ㅍ in ㅂㅏㅁ
+(('asp', ('-', '+')), ('tense', ('-', '+')))
+phon_idx: 12
+TRIGGER syl_str:  []
+TRIGGER min dist:  []
+
+
+---------87. finding triggers of ㅁ in ㅃㅏㅇ
+(('lab', ('0', '+')), ('dors', ('+', '0')))
+phon_idx: 13
+TRIGGER syl_str:  [('ㅁ', 12)]
+TRIGGER min dist:  [('w', 14)]
+
+
+---------88. finding triggers of ㅁ in wㅏㅇ
+(('lab', ('0', '+')), ('dors', ('+', '0')))
+phon_idx: 14
+TRIGGER syl_str:  [('ㅁ', 15)]
+TRIGGER min dist:  [('ㅂ', 15)]
+
+
+---------89. finding triggers of ㅁ in ㅃㅏㅇ
+(('lab', ('0', '+')), ('dors', ('+', '0')))
+phon_idx: 16
+TRIGGER syl_str:  [('ㅁ', 15)]
+TRIGGER min dist:  [('w', 17)]
+
+
+---------90. finding triggers of ㅁ in wㅏㅇ
+(('lab', ('0', '+')), ('dors', ('+', '0')))
+phon_idx: 17
+TRIGGER syl_str:  [('ㅁ', 18)]
+TRIGGER min dist:  [('ㅂ', 18)]
+
+
+---------91. finding triggers of ㅁ in ㅃㅏㅇ
+(('lab', ('0', '+')), ('dors', ('+', '0')))
+phon_idx: 19
+TRIGGER syl_str:  [('ㅁ', 18)]
+TRIGGER min dist:  [('ㅃ', 19)]
+
+
+
+
+=====19th sent====================================================
+
+
